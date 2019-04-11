@@ -1,5 +1,10 @@
-1.java»ù´¡ÒªÀÎ¼Ç
+﻿1.java»ù´¡ÒªÀÎ¼Ç
 2.android»ù´¡ÒªÀÎ¼Ç
 3.ios
 4.hw
 5.xiaomi
+6.HTTP
+7.HTTPS
+8.XMPP
+9.MQTT
+10.USB
